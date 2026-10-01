@@ -1,6 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-html { color-scheme: dark; }
-body { background: #09090b; }
